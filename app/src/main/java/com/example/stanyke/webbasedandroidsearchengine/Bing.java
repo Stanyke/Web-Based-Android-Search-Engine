@@ -10,7 +10,7 @@ import android.widget.Toast;
 
 public class Bing extends AppCompatActivity {
 
-    //Initialize Webview variabe
+    //Initialize Webview variable
     private WebView webview;
 
     @Override
